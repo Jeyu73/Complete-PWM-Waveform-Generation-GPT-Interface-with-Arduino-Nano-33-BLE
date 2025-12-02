@@ -17,6 +17,8 @@
   - Ensure ticker is detached while rebuilding table to avoid concurrent reads/writes.
   - Improved parsing & user feedback; parsing supports "freq amp" (e.g. "500 3.3").
   - Kept original design: volatile shared variables, minimal ISR work, linear interpolation.
+
+Attribution: Uses Iris's PWM logic: Sine table base and index counter
 */
 
 #include <Arduino.h>
