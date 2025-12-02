@@ -6,3 +6,5 @@ Using jupyter notebook through VScode as well as Arduino IDE. This program uses 
 
 - **Arduino modifications**: phase interpolation, amplitude scaling, adaptive table size, Jeremy Yu, 2025
 - **VS Code extension & serial communication**: Fully developed by Jeremy Yu, 2025
+Repository Link:
+https://github.com/Jeyu73/Complete-PWM-Waveform-Generation-GPT-Interface-with-Arduino-Nano-33-BLE.git
