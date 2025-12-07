@@ -6,7 +6,7 @@ There are three components of this device: The user interface tooling, arduino f
  - On the Hardware, I created the voltage divider and mechanical amplitude scaling pot and anaylzed various low passes with the arduino code.
 
 ### Accessing the VS Code Interface, Arduino IDE, and Voltage Divider Docs
- - VS Code Interface: [EE105Projectfinal.ipynb](EEFORPROJECTIDE/EE105Projectfinal.ipynb)'EEFORPROJECTIDE/EE105Projectfinal.ipynb'
+ - VS Code Interface: [EE105Projectfinal.ipynb](EEFORPROJECTIDE/EE105Projectfinal.ipynb)
  - Arduino IDE: [EE105FinalArduinoIDE.ino](EEFORPROJECTIDE/EE105WORKINGWellHigh/EE105FinalArduinoIDE.ino)
  - Voltage Divider: [Voltage Divider.docx](EEFORPROJECTIDE/Voltage%20Divider.docx)
 
