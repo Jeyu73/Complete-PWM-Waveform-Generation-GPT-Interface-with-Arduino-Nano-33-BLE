@@ -16,7 +16,7 @@ There are three components of this device: The user interface tooling, arduino f
 
 - **Arduino modifications**: phase interpolation, amplitude scaling, adaptive table size, Jeremy Yu, 2025
 - **VS Code extension & serial communication**: Fully developed by Jeremy Yu, 2025
-- **Mechanical Amplitude Scaling Pot for low pass bases** Fully developed by Jeremy Yu, 2025
+- **Mechanical Amplitude Scaling Pot for low pass bases**: Fully developed by Jeremy Yu, 2025
 
 Repository Link:
 https://github.com/Jeyu73/Complete-PWM-Waveform-Generation-GPT-Interface-with-Arduino-Nano-33-BLE.git
