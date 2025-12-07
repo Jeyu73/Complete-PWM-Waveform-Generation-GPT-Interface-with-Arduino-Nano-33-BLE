@@ -6,9 +6,9 @@ There are three components of this device: The user interface tooling, arduino f
  - On the Hardware, I created the voltage divider and mechanical amplitude scaling pot and anaylzed various low passes with the arduino code.
 
 ### Accessing the VS Code Interface, Arduino IDE, and Voltage Divider Docs
- - VS Code Interface: EEFORPROJECTIDE/EE105Projectfinal.ipynb
- - Arduino IDE: EEFORPROJECTIDE/EE105WORKINGWellHigh/EE105FinalArduinoIDE.ino
- - Voltage Divider: EEFORPROJECTIDE/Voltage Divider.docx
+ - VS Code Interface: 'EEFORPROJECTIDE/EE105Projectfinal.ipynb'
+ - Arduino IDE: 'EEFORPROJECTIDE/EE105WORKINGWellHigh/EE105FinalArduinoIDE.ino'
+ - Voltage Divider: 'EEFORPROJECTIDE/Voltage Divider.docx'
 
 ## Attribution
 - **Arduino PWM base**: Originally developed by Iris Liu Ye
