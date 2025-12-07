@@ -8,7 +8,7 @@ There are three components of this device: The user interface tooling, arduino f
 ### Accessing the VS Code Interface, Arduino IDE, and Voltage Divider Docs
  - VS Code Interface: [EE105Projectfinal.ipynb](EEFORPROJECTIDE/EE105Projectfinal.ipynb)'EEFORPROJECTIDE/EE105Projectfinal.ipynb'
  - Arduino IDE: [EE105FinalArduinoIDE.ino](EEFORPROJECTIDE/EE105WORKINGWellHigh/EE105FinalArduinoIDE.ino)
- - Voltage Divider: [Voltage Divider.docx](EEFORPROJECTIDE/Voltage_Divider.docx)
+ - Voltage Divider: [Voltage Divider.docx](EEFORPROJECTIDE/Voltage%20Divider.docx)
 
 ## Attribution
 - **Arduino PWM base**: Originally developed by Iris Liu Ye
