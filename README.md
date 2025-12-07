@@ -5,6 +5,11 @@ There are three components of this device: The user interface tooling, arduino f
  - Given base PWM code software, I modified the code to include, adaptive Adaptive duty-cycle computation, Custom waveform table construction, Phase interpolation logic Amplitude-scaling and runtime parameter adjustment, and Integration with the VS Code communication layer
  - On the Hardware, I created the voltage divider and mechanical amplitude scaling pot and anaylzed various low passes with the arduino code.
 
+### Accessing the VS Code Interface, Arduino IDE, and Voltage Divider Docs
+VS Code Interface:
+Arduino IDE: 
+Voltage Divider:
+
 ## Attribution
 - **Arduino PWM base**: Originally developed by Iris Liu Ye
 - **Hardware Gain Pot and low pass base**: Developed by Sam Street
