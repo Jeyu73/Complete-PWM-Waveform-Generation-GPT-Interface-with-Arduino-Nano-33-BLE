@@ -12,7 +12,7 @@ There are three components of this device: The user interface tooling, arduino f
 
 ## Product Attribution
 - **Arduino PWM base**: Originally developed by Iris Liu Ye
-- **Hardware Gain Pot and low pass base**: Developed by Sam Street
+- **Hardware Gain Pot and low pass**: Developed by Sam Street
 
 - **Arduino modifications**: phase interpolation, amplitude scaling, adaptive table size, Jeremy Yu, 2025
 - **VS Code extension & serial communication**: Fully developed by Jeremy Yu, 2025
