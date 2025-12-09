@@ -10,6 +10,9 @@ There are three components of this device: The user interface tooling, arduino f
  - Arduino IDE: [EE105FinalArduinoIDE.ino](EEFORPROJECTIDE/EE105WORKINGWellHigh/EE105FinalArduinoIDE.ino)
  - Voltage Divider: [Voltage Divider.docx](EEFORPROJECTIDE/Voltage%20Divider.docx)
 
+## Check out recognition for this project!
+ - Recognition: [ProjectRecognition.jpeg](ProjectRecognition.jpeg)
+
 ## Project Demonstration Video Google Drive Link
  - https://drive.google.com/file/d/1l1Sn12_UAtLwedJB7oNcmAaokX7LYiFn/view?usp=sharing
 
